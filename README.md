@@ -1,7 +1,7 @@
-# 👋 Hi, I'm a B.Tech CSE Student
+# 👋 Hi, I'm Himanshu Sharma 
 
 Welcome to my GitHub profile!
-
+Student at 'Bk birla institute of enginerring and techonology , pilani'
 ## 🎓 About Me
 
 * 📚 B.Tech (Computer Science Engineering) – 2nd Year
@@ -29,7 +29,7 @@ Welcome to my GitHub profile!
 
 ## 📫 Contact Me
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: hemusharma0009@gmail.com
 
 ---
 
